@@ -40,10 +40,6 @@ This project uses the following Flutter packages:
 - [`provider`](https://pub.dev/packages/provider) – State management
 - [`english_words`](https://pub.dev/packages/english_words) – Random word pair generator
 
-## Screenshots
-| Home Screen | Favorites Screen |
-|-------------|----------------|
-| ![Home](screenshots/home.png) | ![Favorites](screenshots/favorites.png) |
 
 ## License
 This project is licensed under the MIT License.
